@@ -4,6 +4,7 @@ import Collection from '../../components/Collection/Collection';
 import RoadMap from '../../components/RoadMap/RoadMap';
 import JoinUs from '../../components/JoinUs/JoinUs';
 import Clans from '../../components/Clans/Clans';
+import Footer from '../../components/Footer/Footer';
 
 const Home = () => {
   return (
@@ -12,7 +13,8 @@ const Home = () => {
     <Collection/>
     <RoadMap/>
     <JoinUs/>
-    <Clans/>
+     <Clans/> 
+    <Footer/>
 
     </>
   )

@@ -8,7 +8,7 @@ const Collection = () => {
 
     return (
 		<>
-			<Section inverse='inverse' padding='160px 0' >
+			<Section inverse='inverse' padding='160px 0' id='collection'>
 			
 					<CollectionRow>
                        <div className="top">

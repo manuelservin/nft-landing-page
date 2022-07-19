@@ -22,7 +22,7 @@ import {
   const transform = useTransform(
     scrollYProgress,
      reverse ? [1,0]: [0,  1],
-    reverse ? [0, -800] : [800, 0]
+    reverse ? [0, -300] : [300, 0]
   )
   
   console.log(scrollRange)

@@ -18,7 +18,7 @@ import { roadMapData } from '../../data/homeData';
 const RoadMap = () => {
 	return (
 		<IconContext.Provider value={{ color: '#a9b3c1', size: '1rem' }}>
-			<PricingSection id="pricing">
+			<PricingSection id="roadmap">
 				<PricingWrapper>
 					<RoadMapHeading> 
 						
