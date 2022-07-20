@@ -10,8 +10,9 @@ z-index: 3;
 display: flex; 
 flex-direction: column;
 align-items: center;
-border: 1px solid red;
+
 overflow-x: hidden ;
+padding-bottom: 15px;
 
 `
 

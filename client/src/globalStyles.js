@@ -22,7 +22,7 @@ export const Container = styled.div`
 `;
 export const Section = styled.section`
 z-index:6;
-border: 1px solid yellow;
+
 	padding: ${({ padding }) => (padding ? padding : '140px 0')};
 	margin: ${({ margin }) => (margin ? margin : '')};
 	background: ${({ inverse }) => (inverse ? '#210e3f;' : 'white')};

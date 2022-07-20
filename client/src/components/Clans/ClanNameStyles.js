@@ -3,8 +3,11 @@ import { motion } from 'framer-motion';
 
 export const Clan = styled(motion.h2)`
 overflow: hidden ;
-font-size: 70px;
+font-size: 60px;
     font-weight: 900;
+    font-family: 'Source Sans Pro',sans-serif;
+
+  
     text-transform: uppercase;
     color: #d3f5c0;
     @media screen and (max-width: 880px) {

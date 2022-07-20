@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import {AiFillHeart} from 'react-icons/ai' 
 
 export const FooterContainer= styled.div`
-    background-image: radial-gradient(circle farthest-corner at 50% 100%,#7f9eed,#453d96);
+   background-color:#210f3e ;
     padding: 25px 0;
     text-align: center;
 
